@@ -1,0 +1,5 @@
+Clarifai api :-
+Tagging
+Automatically tag your images and video by content. Search and analyze your visual data without relying on additional text descriptions.
+https://www.clarifai.com/api
+
